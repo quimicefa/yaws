@@ -18,7 +18,7 @@ The upper chamber is 3d printed and it will fit all the electronic components wh
 
 ![](projection.png "full casing")
 
-![](3d view.png "3d printed")
+![](3d_view.png "3d printed")
 
 ## software
 Just an infinite loop which will turn on the pump for 2 minutes only if the water level is low enought. Then it will wait for 1 day and re-check.
