@@ -1,5 +1,5 @@
 # YAWS: Yet Another Watering System
-I started growing carnivore plants indoor and the require daily watering .. so here we go!
+I started growing carnivorous plants indoor and they have some special requirements. Daily watering with disttilled or rain water (avoiding tap water!) .. so here we go!
 ## electronics
 * Arduino
 * Power supply: 12V DC
@@ -9,7 +9,7 @@ I started growing carnivore plants indoor and the require daily watering .. so h
 
 ![](wiring.png "wiring diagram")
 
-Use a 12V DC peristaltic pump from aliexpress like this one. Ensure the power needed by the pump is the same you're using in the arduino (you'll power the pump using Vin/GND).
+Use a 12V DC peristaltic pump from aliexpress like this one. Ensure the power needed by the pump is the same you're using in the arduino (you'll power the pump using Vin/GND). The more voltage you power your arduino shield the better because arduino will deal with less current for the same work amount.
 ![](peristaltic_pump.png)
 
 ## casing
